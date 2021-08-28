@@ -1,3 +1,3 @@
-# cats4ml-2020-dataset
+# cats4ml-2021-dataset
 This dataset is a result of the CATS4ML (Crowdsourcing Adverse Test Sets for Machine Learning) Data Challenge - an adversarial test-set sampling images and labels from the Open Images Dataset for state-of-the-art image classification models. The challenge invited participants to sample this publicly available dataset for images that are incorrectly classified by image classification models. It was announced at the AAAI HCOMP2020 conference and ran for three months (Jan-Apr 2021). This challenge was intended as a proof-of-concept of the adversarial sampling approach of existing benchmark datasets.  
  
