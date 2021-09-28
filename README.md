@@ -1,3 +1,6 @@
 # cats4ml-2021-dataset
 This dataset is a result of the CATS4ML (Crowdsourcing Adverse Test Sets for Machine Learning) Data Challenge - an adversarial test-set sampling images and labels from the Open Images Dataset for state-of-the-art image classification models. The challenge invited participants to sample this publicly available dataset for images that are incorrectly classified by image classification models. It was announced at the AAAI HCOMP2020 conference and ran for three months (Jan-Apr 2021). This challenge was intended as a proof-of-concept of the adversarial sampling approach of existing benchmark datasets.  
+
+The paper accompaning this dataset reports on the results of the entire set of 14000 submissions to the challenge. Here, we are releasing this entire dataset under Creative Commons Attribution 4.0 International License. Users will be allowed to modify and repost it, and we encourage them to analyze and publish research based on the data. In this github repository we currently publish a random sample of 60% of the data (stratified by labels). This will allow us to use the held out 40% data as the test to ensure overfitting for the subsequent challenge. After the next data challenge is completed, we will release the held out data to the same github repository.
+
  
