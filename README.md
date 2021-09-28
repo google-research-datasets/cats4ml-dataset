@@ -3,4 +3,8 @@ This dataset is a result of the CATS4ML (Crowdsourcing Adverse Test Sets for Mac
 
 The paper accompaning this dataset reports on the results of the entire set of 14000 submissions to the challenge. Here, we are releasing this entire dataset under Creative Commons Attribution 4.0 International License. Users will be allowed to modify and repost it, and we encourage them to analyze and publish research based on the data. In this github repository we currently publish a random sample of 60% of the data (stratified by labels). This will allow us to use the held out 40% data as the test to ensure overfitting for the subsequent challenge. After the next data challenge is completed, we will release the held out data to the same github repository.
 
+# cats4ml challenge
+CATS4ML challenge implemented a human-in-the-loop submission-verification-scoring workflow similar to the Find-Fix-Verify approach to Crowdsourcing introduced in 
+<a href="https://dl.acm.org/doi/10.1145/1866029.1866078">Soylent: a word processor with a crowd inside</a> (Bernstein et al, 2010). The main components of the challenge workflow engage three groups of actors Finders, Verifiers and Machines, who all work with a target dataset (<a href="https://opensource.google/projects/open-images-dataset">Open Images Dataset</a>) and a set of target labels (a subset of 23 label classes sampled from the all 30K classes in the Open Images Dataset). The target labels were selected to scope the challenge and in the following five sections we provide details on the data, actors, verification and scoring components of the challenge. These labels represent a set of object classes (n=7), event classes (n=3), professions and roles classes (n=9), abstract concept classes (n=3) and sports (n=1). 
+
  
