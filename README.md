@@ -11,6 +11,6 @@ The main components of the challenge workflow engage three groups of actors Find
  
 The paper accompaning this dataset reports on the results of the entire set of 14000 submissions to the challenge. 
 
-* blog post:<a href="https://ai.googleblog.com/2021/02/uncovering-unknown-unknowns-in-machine.html">Uncovering Unknown Unknowns in Machine Learning (2021). Lora Aroyo and Praveen Paritosh, Research Scientists, Google Research</a>
-* paper: <a href="https://arxiv.org/abs/2306.15777">"Is a picture of a bird a bird": Policy recommendations for dealing with ambiguity in machine vision models (2023). Alicia Parrish, Sarah Laszlo, Lora Aroyo, Google Research </a>
+* blog post:<a href="https://ai.googleblog.com/2021/02/uncovering-unknown-unknowns-in-machine.html">Uncovering Unknown Unknowns in Machine Learning (2021).</a> Lora Aroyo and Praveen Paritosh, Research Scientists, Google Research
+* paper: <a href="https://arxiv.org/abs/2306.15777">"Is a picture of a bird a bird": Policy recommendations for dealing with ambiguity in machine vision models (2023).</a>  Alicia Parrish, Sarah Laszlo, Lora Aroyo, Google Research 
 * challenge website: <a href="https://cats4ml.humancomputation.com/">https://cats4ml.humancomputation.com/</a>
