@@ -11,3 +11,7 @@ The main components of the challenge workflow engage three groups of actors Find
  
 The paper accompaning this dataset reports on the results of the entire set of 14000 submissions to the challenge. 
 
+blog post:
+paper: 
+challenge website: [https://cats4ml.humancomputation.com/]([url](https://cats4ml.humancomputation.com/))
+
